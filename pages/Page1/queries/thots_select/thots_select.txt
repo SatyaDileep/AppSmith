@@ -1,0 +1,1 @@
+SELECT * FROM public."restaurants" GROUP BY restaurants.category, restaurants.restaurant_id;

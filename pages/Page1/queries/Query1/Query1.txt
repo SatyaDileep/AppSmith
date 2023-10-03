@@ -1,0 +1,1 @@
+SELECT * FROM public."addresses" LIMIT 10;
